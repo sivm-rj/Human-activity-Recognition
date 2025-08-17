@@ -27,11 +27,7 @@ Key contributions include:
 - Accuracy: Achieved ~92–94% on the WISDM dataset.
 - Compact Model: Final TensorFlow Lite model ~600 KB.
 
----
 
-
-
----
 
 ## Implementation Steps
 1. **Model Training (Python, TensorFlow/Keras)**  
