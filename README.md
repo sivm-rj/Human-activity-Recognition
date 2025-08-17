@@ -29,17 +29,7 @@ Key contributions include:
 
 ---
 
-## Repository Structure
-```
-├── data/                  # Preprocessed WISDM dataset
-├── notebooks/             # Model training and experimentation in Python
-├── models/                # Saved models (TensorFlow & TFLite formats)
-├── arduino/               # Arduino IDE sketches for deployment
-│   ├── model.h            # Converted TFLite model in C array format
-│   └── main.ino           # Arduino code for sensor data collection & inference
-├── results/               # Accuracy, confusion matrices, plots
-└── README.md              # Project documentation
-```
+
 
 ---
 
